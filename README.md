@@ -1,6 +1,6 @@
 # GraphColoring
 
-Solution to the Graph Coloring problem using a Pregel-like algotithm in Apache Spark 
+Solution to the Graph Coloring problem using a Pregel-like algorithm in Apache Spark 
 
 Setup and execution 
 * install _virtual-box_ and _vagrant_
