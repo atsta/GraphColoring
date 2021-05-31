@@ -1,4 +1,4 @@
-# Graph Coloring
+## Graph Coloring
 
 Solution to the Graph Coloring problem using a Pregel-like algorithm in Apache Spark 
 
